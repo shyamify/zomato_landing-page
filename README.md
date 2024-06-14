@@ -1,3 +1,3 @@
 # this is my zomato landing page
 
-## done with first commit gitgit add
+## done with first commit git add
